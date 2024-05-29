@@ -1,0 +1,82 @@
+Linting library in TinyGPSPlus
+Rule LS008 result: fail
+INFO: No header file found matching library name (TinyGPS__.h). Best practices are for primary header filename to match library name.
+Rule LP011 result: fail
+ERROR: Prohibited character(s) in library.properties name value: TinyGPS++. See: https://arduino.github.io/arduino-cli/latest/library-specification/#libraryproperties-file-format
+Rule LD002 result: fail
+WARNING: No license file found. See: https://docs.github.com/en/free-pro-team@latest/github/creating-cloning-and-archiving-repositories/licensing-a-repository#detecting-a-license
+
+Finished linting project. Results:
+Warning count: 1
+Error count: 1
+Rules passed: false
+
+-------------------
+
+Linting sketch in TinyGPSPlus/examples/BasicExample
+
+Finished linting project. Results:
+Warning count: 0
+Error count: 0
+Rules passed: true
+
+-------------------
+
+Linting sketch in TinyGPSPlus/examples/DeviceExample
+
+Finished linting project. Results:
+Warning count: 0
+Error count: 0
+Rules passed: true
+
+-------------------
+
+Linting sketch in TinyGPSPlus/examples/FullExample
+
+Finished linting project. Results:
+Warning count: 0
+Error count: 0
+Rules passed: true
+
+-------------------
+
+Linting sketch in TinyGPSPlus/examples/KitchenSink
+
+Finished linting project. Results:
+Warning count: 0
+Error count: 0
+Rules passed: true
+
+-------------------
+
+Linting sketch in TinyGPSPlus/examples/SatElevTracker
+
+Finished linting project. Results:
+Warning count: 0
+Error count: 0
+Rules passed: true
+
+-------------------
+
+Linting sketch in TinyGPSPlus/examples/SatelliteTracker
+
+Finished linting project. Results:
+Warning count: 0
+Error count: 0
+Rules passed: true
+
+-------------------
+
+Linting sketch in TinyGPSPlus/examples/UsingCustomFields
+
+Finished linting project. Results:
+Warning count: 0
+Error count: 0
+Rules passed: true
+
+-------------------
+
+Finished linting projects. Results:
+Warning count: 1
+Error count: 1
+Rules passed: false
